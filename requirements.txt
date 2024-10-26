@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+asyncpg
+databases
+psycopg2
+alembic
+python-dotenv
+twilio
+pytest
+httpx
+gunicorn
+openai

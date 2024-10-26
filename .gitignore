@@ -1,0 +1,28 @@
+# Ignore virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and coverage results
+.pytest_cache/
+coverage/
+htmlcov/
+
+# Virtual environment
+venv/
+
+# IDE settings (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Vim swap files
+*.swp
+
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store  # MacOS specific file
